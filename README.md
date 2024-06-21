@@ -16,7 +16,7 @@ This is a backend server built with Express and TypeScript. It handles form subm
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/backend-project.git
+   git clone https://github.com/Rohitjangid2704/Slidely_Desktop_app_backend.git
    ```
 
 2. **Navigate into the project directory**:

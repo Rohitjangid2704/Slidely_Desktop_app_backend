@@ -1,5 +1,5 @@
 
-# Backend Project
+# Instructions on how to run the server.
 
 This is a backend server built with Express and TypeScript. It handles form submissions and allows viewing of saved submissions.
 
